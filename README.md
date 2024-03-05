@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 **Summary**
 
-- You've created a web application using **React Vite**.
-- The project incorporates **HTML**, **CSS**, and **JavaScript**.
-- Users can **add and delete** tasks using the this web app.
+- The **To-Do App** is a minimalistic task management application developed using **React JS**.
+- Users can **add** and **delete** tasks within the app.
+- The design follows a simple and clean aesthetic.
 - The application is **hosted on Vercel**, and the URL to access it is [https://to-do-app-ten-alpha.vercel.app/]. 🚀
